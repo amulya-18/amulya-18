@@ -1,13 +1,21 @@
 # Hi, I’m Amulya 👋
 
 🎓 B.Tech ECE student at NIT Hamirpur (2023–2027)
-💻 Full-stack developer focused on **SDE roles** | Building with React, Node.js & AI APIs
-🚀 Currently a Web Dev Intern @ RENXO Technologies Private Limited
-🏆 Grinding LeetCode — 250+ problems solved and counting
-📘 Strengthening DBMS, OOPS, OS & System Design fundamentals for SDE interviews
------
 
-### 🔧 Tech Stack
+
+💻 Full-stack developer focused on **SDE roles** | Building with React, Node.js & AI APIs
+
+
+🚀 Currently a Web Dev Intern @ RENXO Technologies Private Limited
+
+
+🏆 Grinding LeetCode — 250+ problems solved and counting
+
+
+📘 Strengthening DBMS, OOPS, OS & System Design fundamentals for SDE interviews
+
+
+-----
 
 ### 🛠️ Tech Stack
 
